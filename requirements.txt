@@ -1,0 +1,4 @@
+lxml==5.2.2
+PyQt5==5.15.11
+Requests==2.32.3
+weasyprint==62.3
